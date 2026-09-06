@@ -1,0 +1,18 @@
+# Build & Cache Directories
+build/
+build-*/
+build-test/
+.gradle/
+.idea/
+*.iml
+local.properties
+.cxx/
+app/build/
+release-artifacts/
+node_modules/
+
+# OS / Keystore
+*.jks
+*.keystore
+.DS_Store
+Thumbs.db

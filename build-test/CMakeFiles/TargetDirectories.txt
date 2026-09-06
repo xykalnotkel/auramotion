@@ -1,4 +1,0 @@
-/home/user/auramotion/build-test/CMakeFiles/test_engine.dir
-/home/user/auramotion/build-test/CMakeFiles/test.dir
-/home/user/auramotion/build-test/CMakeFiles/edit_cache.dir
-/home/user/auramotion/build-test/CMakeFiles/rebuild_cache.dir
