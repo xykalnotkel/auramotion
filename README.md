@@ -1,6 +1,23 @@
 # ⚡ AuraMotion — Professional Mobile Motion Graphics & VFX Studio
 
-> **An Alight Motion-grade Motion Graphics, Keyframe Animation & Visual Effects Engine for Android and Cross-Platform.**
+> **An Alight Motion-grade Motion Graphics, Keyframe Animation & Visual Effects Engine for Android and Web.**
+
+[![GitHub Release](https://img.shields.io/github/v/release/xykalnotkel/auramotion?style=for-the-badge&color=8A2BE2)](https://github.com/xykalnotkel/auramotion/releases/tag/v1.0.0)
+[![CI Build & Release](https://img.shields.io/github/actions/workflow/status/xykalnotkel/auramotion/build-android.yml?branch=main&style=for-the-badge&color=00ffaa)](https://github.com/xykalnotkel/auramotion/actions)
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Studio-black?style=for-the-badge&logo=vercel)](https://web-nu-bice-21.vercel.app)
+
+---
+
+## 🚀 Quick Access & Download Links
+
+| Resource | Platform / Type | Direct Link |
+| :--- | :--- | :--- |
+| 📱 **AuraMotion Debug APK** | Android (Signed & Ready to Install) | [**Download APK (v1.0.0)**](https://github.com/xykalnotkel/auramotion/releases/download/v1.0.0/AuraMotion-v1.0.0-Debug.apk) |
+| 📦 **AuraMotion Release APK** | Android (Optimized Unsigned) | [**Download Release APK**](https://github.com/xykalnotkel/auramotion/releases/download/v1.0.0/AuraMotion-v1.0.0-Release-unsigned.apk) |
+| 📦 **Google Play Bundle (AAB)** | Android App Bundle | [**Download AAB (v1.0.0)**](https://github.com/xykalnotkel/auramotion/releases/download/v1.0.0/AuraMotion-v1.0.0.aab) |
+| 🌐 **Live Web Studio** | Web / PWA (Supabase + Cloudinary) | [**Open Studio Web App**](https://web-nu-bice-21.vercel.app) |
+| 🐙 **GitHub Repository** | Source Code & CI/CD Pipeline | [**xykalnotkel/auramotion**](https://github.com/xykalnotkel/auramotion) |
+| 📋 **Release Page & Checksums** | GitHub Releases | [**v1.0.0 Release Notes**](https://github.com/xykalnotkel/auramotion/releases/tag/v1.0.0) |
 
 ---
 
