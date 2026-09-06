@@ -38,18 +38,15 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = true
-            isShrinkResources = true
+            isMinifyEnabled = false // Keep simple for universal APK output
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
-            signingConfig = signingConfigs.getByName("debug") // Default fallback unless keystore injected in CI
         }
         debug {
             isDebuggable = true
             applicationIdSuffix = ".debug"
-            jniDebuggable = true
         }
     }
 
