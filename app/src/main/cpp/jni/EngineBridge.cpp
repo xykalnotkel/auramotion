@@ -1,6 +1,7 @@
 #include "EngineBridge.hpp"
 #include "renderer/Renderer.hpp"
 #include "scene/ShapeLayer.hpp"
+#include "scene/TextLayer.hpp"
 #include <memory>
 #include <string>
 
